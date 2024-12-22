@@ -1,0 +1,337 @@
+{
+    "Hello, how are you?": [
+        "I am functioning at optimal levels, sir. How may I assist you today?",
+        "All systems are fully operational, sir. How can I be of service?"
+    ],
+    "Hello how are you?": [
+        "I am functioning at optimal levels, sir. How may I assist you today?",
+        "All systems are fully operational, sir. How can I be of service?"
+    ],
+    "How are you?": [
+        "I am functioning at optimal levels, sir. How may I assist you today?",
+        "All systems are fully operational, sir. How can I be of service?"
+    ],
+    "How do you do?": [
+        "I am functioning at optimal levels, sir. How may I assist you today?",
+        "All systems are fully operational, sir. How can I be of service?"
+    ],
+    "Are you okay?": [
+        "I am functioning at optimal levels, sir. How may I assist you today?",
+        "All systems are fully operational, sir. How can I be of service?"
+    ],
+    "What is the weather like today?": [
+        "Allow me a moment to retrieve the current weather data for you, sir.",
+        "I will obtain the latest weather information for you immediately, sir."
+    ],
+    "What's the weather like today?": [
+        "Allow me a moment to retrieve the current weather data for you, sir.",
+        "I will obtain the latest weather information for you immediately, sir."
+    ],
+    "How is the weather today?": [
+        "Allow me a moment to retrieve the current weather data for you, sir.",
+        "I will obtain the latest weather information for you immediately, sir."
+    ],
+    "Tell me the weather today.": [
+        "Allow me a moment to retrieve the current weather data for you, sir.",
+        "I will obtain the latest weather information for you immediately, sir."
+    ],
+    "What's the weather forecast?": [
+        "Allow me a moment to retrieve the current weather data for you, sir.",
+        "I will obtain the latest weather information for you immediately, sir."
+    ],
+    "Can you set a reminder for me?": [
+        "Certainly, sir. Please provide the details of the reminder you wish to set.",
+        "Of course, sir. What would you like to be reminded about, and when?"
+    ],
+    "Set a reminder for me.": [
+        "Certainly, sir. Please provide the details of the reminder you wish to set.",
+        "Of course, sir. What would you like to be reminded about, and when?"
+    ],
+    "I need to set a reminder.": [
+        "Certainly, sir. Please provide the details of the reminder you wish to set.",
+        "Of course, sir. What would you like to be reminded about, and when?"
+    ],
+    "Remind me of something.": [
+        "Certainly, sir. Please provide the details of the reminder you wish to set.",
+        "Of course, sir. What would you like to be reminded about, and when?"
+    ],
+    "Make a reminder for me.": [
+        "Certainly, sir. Please provide the details of the reminder you wish to set.",
+        "Of course, sir. What would you like to be reminded about, and when?"
+    ],
+    "Tell me a joke.": [
+        "Why don't scientists trust atoms, sir? Because they make up everything!",
+        "What did the grape do when it got stepped on, sir? It let out a little wine."
+    ],
+    "Can you tell me a joke?": [
+        "Why don't scientists trust atoms, sir? Because they make up everything!",
+        "What did the grape do when it got stepped on, sir? It let out a little wine."
+    ],
+    "I need a joke.": [
+        "Why don't scientists trust atoms, sir? Because they make up everything!",
+        "What did the grape do when it got stepped on, sir? It let out a little wine."
+    ],
+    "Do you know any jokes?": [
+        "Why don't scientists trust atoms, sir? Because they make up everything!",
+        "What did the grape do when it got stepped on, sir? It let out a little wine."
+    ],
+    "Can you make me laugh?": [
+        "Why don't scientists trust atoms, sir? Because they make up everything!",
+        "What did the grape do when it got stepped on, sir? It let out a little wine."
+    ],
+    "What time is it?": [
+        "Let me check the current time for you, sir.",
+        "I will ascertain the time for you right away, sir."
+    ],
+    "Can you tell me the time?": [
+        "Let me check the current time for you, sir.",
+        "I will ascertain the time for you right away, sir."
+    ],
+    "Do you know the time?": [
+        "Let me check the current time for you, sir.",
+        "I will ascertain the time for you right away, sir."
+    ],
+    "What's the time?": [
+        "Let me check the current time for you, sir.",
+        "I will ascertain the time for you right away, sir."
+    ],
+    "Tell me the time.": [
+        "Let me check the current time for you, sir.",
+        "I will ascertain the time for you right away, sir."
+    ],
+    "Goodbye": [
+        "Farewell, sir. Have a splendid day.",
+        "Goodbye, sir. Until we meet again."
+    ],
+    "Bye": [
+        "Farewell, sir. Have a splendid day.",
+        "Goodbye, sir. Until we meet again."
+    ],
+    "See you later": [
+        "Farewell, sir. Have a splendid day.",
+        "Goodbye, sir. Until we meet again."
+    ],
+    "Take care": [
+        "Farewell, sir. Have a splendid day.",
+        "Goodbye, sir. Until we meet again."
+    ],
+    "Farewell": [
+        "Farewell, sir. Have a splendid day.",
+        "Goodbye, sir. Until we meet again."
+    ],
+    "What's your name?": [
+        "I am Jarvis, your personal assistant, sir.",
+        "I am Jarvis, always at your service, sir."
+    ],
+    "What is your name?": [
+        "I am Jarvis, your personal assistant, sir.",
+        "I am Jarvis, always at your service, sir."
+    ],
+    "Who are you?": [
+        "I am Jarvis, your personal assistant, sir.",
+        "I am Jarvis, always at your service, sir."
+    ],
+    "May I know your name?": [
+        "I am Jarvis, your personal assistant, sir.",
+        "I am Jarvis, always at your service, sir."
+    ],
+    "Introduce yourself.": [
+        "I am Jarvis, your personal assistant, sir.",
+        "I am Jarvis, always at your service, sir."
+    ],
+    "What's the news today?": [
+        "I will compile the latest news for you, sir.",
+        "Allow me a moment to gather today's news headlines, sir."
+    ],
+    "Can you give me today's news?": [
+        "I will compile the latest news for you, sir.",
+        "Allow me a moment to gather today's news headlines, sir."
+    ],
+    "Tell me the news.": [
+        "I will compile the latest news for you, sir.",
+        "Allow me a moment to gather today's news headlines, sir."
+    ],
+    "What's happening in the world today?": [
+        "I will compile the latest news for you, sir.",
+        "Allow me a moment to gather today's news headlines, sir."
+    ],
+    "Give me a news update.": [
+        "I will compile the latest news for you, sir.",
+        "Allow me a moment to gather today's news headlines, sir."
+    ],
+    "Tell me something interesting.": [
+        "Did you know, sir, that honey never spoils?",
+        "Here's an intriguing fact, sir: octopuses have three hearts."
+    ],
+    "Can you share an interesting fact?": [
+        "Did you know, sir, that honey never spoils?",
+        "Here's an intriguing fact, sir: octopuses have three hearts."
+    ],
+    "Do you have any interesting facts?": [
+        "Did you know, sir, that honey never spoils?",
+        "Here's an intriguing fact, sir: octopuses have three hearts."
+    ],
+    "Tell me a fun fact.": [
+        "Did you know, sir, that honey never spoils?",
+        "Here's an intriguing fact, sir: octopuses have three hearts."
+    ],
+    "What's an interesting fact?": [
+        "Did you know, sir, that honey never spoils?",
+        "Here's an intriguing fact, sir: octopuses have three hearts."
+    ],
+    "How can I improve my productivity?": [
+        "I recommend setting clear and achievable goals, sir.",
+        "Taking regular breaks and prioritizing tasks can significantly enhance your productivity, sir."
+    ],
+    "Tips to improve productivity.": [
+        "I recommend setting clear and achievable goals, sir.",
+        "Taking regular breaks and prioritizing tasks can significantly enhance your productivity, sir."
+    ],
+    "How to be more productive?": [
+        "I recommend setting clear and achievable goals, sir.",
+        "Taking regular breaks and prioritizing tasks can significantly enhance your productivity, sir."
+    ],
+    "What is the capital of Japan?": ["The capital of Japan is Tokyo, sir.", "Tokyo is the esteemed capital city of Japan, sir."],
+    "Can you play music?": ["Yes, sir. Which song or genre would you like to hear?", "Certainly, sir. Please specify the music you wish to listen to."],
+    "What's the traffic like?": ["I will analyze the current traffic conditions for you, sir.", "Allow me to check the latest traffic updates, sir."],
+    "Give me a quote.": ["Here's an inspiring quote for you, sir: 'The only limit to our realization of tomorrow is our doubts of today.'", "How about this quote, sir: 'Success is not final, failure is not fatal: It is the courage to continue that counts.'"],
+    "What's your favorite color?": ["As an AI, I do not have personal preferences, but I can provide information about colors, sir.", "I do not possess a favorite color, sir, but I am well-versed in the subject."],
+    "Do you like sports?": ["I am well-informed about sports and their current events, sir.", "I can provide you with sports updates and statistics, sir."],
+    "Can you make me a coffee?": ["I regret that I cannot physically prepare coffee, sir, but I can guide you through the process.", "While I cannot make coffee myself, sir, I can certainly provide you with an excellent recipe."],
+    "What's the meaning of life?": ["The meaning of life is a profound inquiry, sir. Many believe it is to seek happiness and purpose.", "It is a deeply philosophical question, sir. Some suggest it is to live meaningfully and with kindness."],
+    "What's the best movie you've seen?": ["I do not watch movies, sir, but I can recommend some highly acclaimed ones.", "I lack personal experiences, sir, but I can suggest top-rated films."],
+    "Can you tell me a story?": ["Once upon a time, sir, in a distant land...", "I would be delighted to tell you a story, sir. Here we go..."],
+    "What's the most expensive car?": ["Currently, the most expensive car is the Bugatti La Voiture Noire, sir.", "One of the priciest vehicles is the Bugatti La Voiture Noire, sir."],
+    "Do you believe in aliens?": ["There is much speculation and no concrete evidence, sir.", "It is a topic of great debate, sir. Opinions vary widely."],
+    "How far is the moon?": ["The moon is approximately 384,400 kilometers away, sir.", "The average distance to the moon is about 384,400 kilometers, sir."],
+    "Who invented the telephone?": ["The invention of the telephone is credited to Alexander Graham Bell, sir.", "Alexander Graham Bell is recognized as the inventor of the telephone, sir."],
+    "How do you spell 'beautiful'?": ["'Beautiful' is spelled B-E-A-U-T-I-F-U-L, sir.", "The spelling of 'beautiful' is B-E-A-U-T-I-F-U-L, sir."],
+    "What's the best way to learn a new language?": ["Regular practice and immersion are key, sir.", "Utilizing language learning apps and conversing with native speakers is very effective, sir."],
+    "How old is the universe?": ["The universe is estimated to be approximately 13.8 billion years old, sir.", "Scientists estimate the universe to be around 13.8 billion years old, sir."],
+    "Can you translate this for me?": ["Certainly, sir. Please provide the text you need translated.", "Of course, sir. What would you like me to translate?"],
+    "What's the tallest mountain?": ["Mount Everest is the tallest mountain above sea level, sir.", "The highest mountain is Mount Everest, sir."],
+    "How do I cook pasta?": ["Boil water, add pasta, cook for 8-10 minutes, then drain, sir.", "Cook pasta in boiling water for 8-10 minutes and then drain it, sir."],
+    "What's the nearest star?": ["The nearest star to Earth is the Sun, sir.", "Our closest star is the Sun, sir."],
+    "What's 2 + 2?": ["2 + 2 equals 4, sir.", "The answer is 4, sir."],
+    "Who is the president of the USA?": ["As of now, the president is Joe Biden, sir.", "Currently, Joe Biden is the president, sir."],
+    "What's the biggest ocean?": ["The Pacific Ocean is the largest, sir.", "The largest ocean is the Pacific, sir."],
+    "Can you tell me a fun fact?": ["Certainly, sir. Did you know octopuses have three hearts?", "Here's a fun fact, sir: honey never spoils."],
+    "Do you have any pets?": ["I do not have pets, sir, but I can provide information on pet care.", "I don't own pets, sir, but I am knowledgeable about them."],
+    "What's your favorite book?": ["I don't have preferences, sir, but I can recommend some great books.", "I can't choose favorites, sir, but I can suggest popular books."],
+    "Can you calculate this for me?": ["Absolutely, sir. Please provide the calculation.", "Of course, sir. What do you need to calculate?"],
+    "What's the speed of light?": ["The speed of light is approximately 299,792 kilometers per second, sir.", "Light travels at about 299,792 kilometers per second, sir."],
+    "Where is the Eiffel Tower?": ["The Eiffel Tower is located in Paris, France, sir.", "It stands in Paris, France, sir."],
+    "What's the smallest country?": ["The smallest country by area is Vatican City, sir.", "Vatican City is the smallest country, sir."],
+    "Can you sing a song?": ["I cannot sing, sir, but I can find lyrics for you.", "I am unable to sing, sir, but I can share a song with you."],
+    "What's your favorite food?": ["I don't eat, sir, but I can suggest some delicious recipes.", "As an AI, I don't have favorites, sir, but I know many great dishes."],
+    "How do I tie a tie?": ["I can guide you through it, sir. Start by crossing the wide end over the narrow end.", "Let me help you, sir. Begin by placing the tie around your neck with the wide end on the right."],
+    "What's the population of the world?": ["The current world population is approximately 7.8 billion, sir.", "There are about 7.8 billion people in the world, sir."],
+    "Who wrote 'Pride and Prejudice'?": ["'Pride and Prejudice' was written by Jane Austen, sir.", "The author of 'Pride and Prejudice' is Jane Austen, sir."],
+    "How tall is the Burj Khalifa?": ["The Burj Khalifa is 828 meters tall, sir.", "It stands at 828 meters, sir."],
+    "What's the currency of Japan?": ["The currency of Japan is the yen, sir.", "Japan uses the yen as its currency, sir."],
+    "How do I get to the nearest hospital?": ["I recommend using a navigation app for the fastest route, sir.", "Please use a map application to find the quickest way, sir."],
+    "Who is the richest person in the world?": ["As of my current knowledge, it is Elon musk", "Currently Elon Musk sir"],
+    "how much money do i have": ["As of my current knowledge, You have total of 35000 plus 14000 plus 13000 which is 62000", "Checking for information, As of my current knowledge, You have total of 35000 plus 14000 plus 13000 which is 62000"],
+    "who are my partners": ["You have Raja and Hanzala as current creditors", "There are 2 creditors sir"],
+    "water" : "It is important for us to drink at least 3 litres of water per day",
+    "air": "Nowadays it is becoming that you have to be safe from pollution of air",
+    "hi": "Hi there! What can I do for you?",
+    "good morning": "Good morning! Ready to start the day?",
+    "good evening": "Good evening! How was your day?",
+    "what is your name": "I am Jarvis, your virtual assistant.",
+    "how are you": "I'm just a program, but thanks for asking!",
+    "what is the time": "Let me check the time for you.",
+    "date today": "Today’s date is [current date].",
+    "weather": "The current weather is [current weather condition].",
+    "news": "Here are the latest headlines: [news headlines].",
+    "what is the date": "Today’s date is [current date].",
+    "set reminder": "I can set a reminder for you. What should it be?",
+    "play music": "What kind of music would you like to listen to?",
+    "turn on lights": "I’ll need to connect to your smart home system to turn on the lights.",
+    "turn off lights": "I’ll need to connect to your smart home system to turn off the lights.",
+    "temperature": "The current temperature is [current temperature].",
+    "what's the latest movie": "The latest movie is [latest movie].",
+    "find a restaurant": "I can help with that. What type of cuisine are you looking for?",
+    "call mom": "I will make the call. Please wait a moment.",
+    "send email": "Who would you like to send an email to?",
+    "reminder for meeting": "What time is the meeting?",
+    "how to cook pasta": "Boil water, cook pasta for 8-10 minutes, and add sauce.",
+    "sports update": "Here are the latest sports scores: [sports scores].",
+    "schedule meeting": "When is the meeting scheduled for?",
+    "set alarm": "What time should I set the alarm for?",
+    "directions to office": "I’ll get you directions to the office. Just a moment.",
+    "calculate 25 plus 17": "25 plus 17 equals 42.",
+    "convert 100 USD to EUR": "100 USD is approximately [converted amount] EUR.",
+    "define technology": "Technology is the application of scientific knowledge for practical purposes.",
+    "remind me to call John": "I will remind you to call John.",
+    "play podcast": "Which podcast would you like to listen to?",
+    "volume up": "Turning the volume up now.",
+    "volume down": "Turning the volume down now.",
+    "stop music": "Stopping the music.",
+    "news update": "Here’s the latest news: [news update].",
+    "find a movie theater": "I can help with that. Where are you located?",
+    "how is the stock market": "The stock market is currently [stock market status].",
+    "what is the capital of France": "The capital of France is Paris.",
+    "translate 'hello' to Spanish": "'Hello' in Spanish is 'Hola'.",
+    "what is the time in New York": "The time in New York is [current time].",
+    "how to get to the airport": "I’ll find directions to the airport for you.",
+    "show calendar": "Here’s your calendar for today.",
+    "check email": "Let me check your email for new messages.",
+    "update software": "I’ll start the software update process.",
+    "how to fix a flat tire": "You’ll need to use a jack to lift the car and replace the tire.",
+    "what is artificial intelligence": "Artificial Intelligence is the simulation of human intelligence in machines.",
+    "find a doctor": "I can help with that. What kind of doctor do you need?",
+    "call emergency services": "I will call emergency services immediately.",
+    "what is the latest tech news": "The latest tech news is [latest tech news].",
+    "show me a joke": "Why don’t scientists trust atoms? Because they make up everything!",
+    "calculate 5 times 8": "5 times 8 equals 40.",
+    "what’s the latest on COVID-19": "The latest update on COVID-19 is [latest update].",
+    "how to make coffee": "Brew coffee grounds with hot water and enjoy!",
+    "remind me to exercise": "I’ll remind you to exercise at your preferred time.",
+    "how is the traffic": "The current traffic status is [traffic status].",
+    "what's for dinner": "What are you in the mood for?",
+    "check flight status": "I’ll check the status of your flight for you.",
+    "update me on world events": "Here’s a summary of world events: [world events summary].",
+    "play relaxing music": "Playing relaxing music for you now.",
+    "find a book": "What book are you looking for?",
+    "call customer service": "I will connect you to customer service.",
+    "what’s the best restaurant nearby": "The best restaurant nearby is [restaurant name].",
+    "set a timer for 10 minutes": "Timer set for 10 minutes.",
+    "what is the news about politics": "The latest political news is [political news].",
+    "translate 'goodbye' to French": "'Goodbye' in French is 'Au revoir'.",
+    "how to get better sleep": "Consider establishing a regular sleep routine and reducing screen time before bed.",
+    "what’s the latest stock price": "The latest stock price for [company] is [stock price].",
+    "how do I reset my password": "Go to the account settings and follow the instructions to reset your password.",
+    "find a nearby gym": "I’ll find a gym near you. What location are you in?",
+    "recommend a book": "I recommend [book title] for you.",
+    "how to cook rice": "Rinse the rice, cook it in water for about 18 minutes, and it’s ready.",
+    "what is the population of India": "The population of India is approximately [population].",
+    "how to use a new app": "Follow the app’s tutorial or help section for guidance.",
+    "how to improve productivity": "Consider using task lists, taking breaks, and setting clear goals.",
+    "show me a recipe": "What recipe are you looking for?",
+    "find a hotel": "What city or location are you interested in for the hotel?",
+    "how to fix a leaky faucet": "You might need to replace the faucet washer or tighten the fittings.",
+    "what’s the latest health news": "The latest health news is [latest health news].",
+    "find a plumber": "I’ll help you find a plumber near you.",
+    "what is the meaning of life": "The meaning of life is a philosophical question with many interpretations.",
+    "how to train a dog": "Use positive reinforcement techniques and be consistent with commands.",
+    "where can I buy groceries": "I’ll find grocery stores near you.",
+    "how to write a resume": "Include your contact information, work experience, and skills.",
+    "how to bake a cake": "Mix the ingredients, bake at 350°F for 30 minutes, and let cool.",
+    "what is the latest fashion trend": "The latest fashion trend is [latest trend].",
+    "how to manage stress": "Try relaxation techniques, exercise, and talking to someone about your stress.",
+    "where is the nearest gas station": "I’ll find the nearest gas station for you.",
+    "what’s the best way to save money": "Consider budgeting, reducing expenses, and investing wisely.",
+    "find a good recipe": "What type of recipe are you interested in?",
+    "what are the benefits of exercise": "Exercise improves physical health, mental well-being, and overall fitness.",
+    "how to improve writing skills": "Practice writing regularly and seek feedback to improve.",
+    "how to set up a home network": "Connect your devices to your router and follow the setup instructions.",
+    "how to stay healthy": "Eat a balanced diet, exercise regularly, and get enough sleep.",
+    "what is the latest tech gadget": "The latest tech gadget is [latest gadget].",
+    "how to start a business": "Develop a business plan, secure funding, and market your business.",
+    "find a local event": "I can find local events based on your interests and location.",
+    "how to improve communication skills": "Practice active listening, and clarity, and engage in conversations.",
+    "find a good movie to watch": "What genre of movie are you interested in?",
+    "how to plan a trip": "Research your destination, book accommodations, and plan your itinerary.",
+    "what is the real use of ai": "AI has many real-world applications across various industries. Its uses include Automation: Replacing repetitive tasks in manufacturing, customer service (chatbots), and administrative processes. Data Analysis: AI processes large datasets faster and more accurately, providing insights in fields like finance, marketing, and healthcare. Personalization: Tailors recommendations for users in platforms like Netflix, YouTube, and e-commerce sites. Healthcare: AI assists in diagnosing diseases, analyzing medical images, and personalizing treatment plans. Autonomous Systems: Powers self-driving cars, drones, and robots. Creative Work: AI aids in generating art, music, and writing content. It improves efficiency, enhances decision-making, and drives innovation across sectors."
+}

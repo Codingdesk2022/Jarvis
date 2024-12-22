@@ -1,0 +1,12 @@
+# Greeting
+    *Hi*
+        -Hello! How can I assist you today?
+
+# Asking about Wikipedia
+    *Who is [a person]?*
+        $whoIs [a person]
+        -Here's some information about [a person]: $response
+
+# Default response
+    *[any]*
+        -Sorry, I don't understand. Can you try asking differently?
