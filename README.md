@@ -1,2 +1,1 @@
-# Jarvis
-Jarvis is an AI-powered personal assistant that automates tasks and boosts productivity. From managing schedules to controlling devices, it offers a seamless, hands-free experience. Stay tuned for more!
+Jarvis is an intelligent personal assistant project designed to automate tasks and enhance productivity. Built with cutting-edge technologies, Jarvis can handle everything from managing schedules to controlling home devices, all through simple voice commands or text input. This project reflects my commitment to blending AI with everyday functionality for a seamless experience. Stay tuned for updates as I continue to develop and expand its capabilities!
